@@ -5,7 +5,9 @@ This repository contains examples and templates for creating short video clips�
 🎥 **Convert any PowerPoint slide into a video file** easily with **no hassle** or the complexity of video editors. You can achieve professional results using PowerPoint's built-in tools, while also preparing video thumbnails and banners for social media platforms **quickly and efficiently**.
 
 ---
+What helps you can get from this repository?
 
+<br/>
 ## Features
 
 - **🎬 Intro Templates**: High-quality, customizable templates for video intros.

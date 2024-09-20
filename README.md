@@ -1,5 +1,7 @@
 # PowerPoint Slide to MP4 Video Examples
 
+![PPT_to_MP4_Thumbnail_a](https://github.com/user-attachments/assets/4f74d43e-2e82-45ec-b33b-37e713006cbe)
+
 This repository contains examples and templates for creating short video clips—such as intros and end screens—using **Microsoft PowerPoint**.
 
 🎥 **Convert any PowerPoint slide into a video file** easily with **no hassle** or the complexity of video editors. You can achieve professional results using PowerPoint's built-in tools, while also preparing video thumbnails and banners for social media platforms **quickly and efficiently**.

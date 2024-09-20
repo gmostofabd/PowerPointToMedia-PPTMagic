@@ -84,6 +84,12 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ---
 
+
+
+![PPT_to_MP4_Thumbnail_b](https://github.com/user-attachments/assets/b0c5b255-1b17-4246-96de-e528723c9bb7)
+
+<br/>
+
 ## PowerPoint Guide: Quality and Creativity
 
 ### 1. **Animations in PowerPoint**

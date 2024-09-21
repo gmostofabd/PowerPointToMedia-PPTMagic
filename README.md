@@ -28,28 +28,11 @@ PowerPoint presentations are widely used for sharing ideas and information, but 
 
 ---
 
-## 📖 Getting Started
-
-### Prerequisites
-
-- Microsoft PowerPoint (2016 or later recommended)
-- Basic knowledge of using PowerPoint
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/gmostofabd/PowerPointToMedia-PPTMagic.git
-   ```
-2. Open the tutorial files in your preferred code editor or viewer.
-
----
-
 ## 🎥 Example Video - PowerPoint Exported MP4
 
 Here’s a demonstration video exported from PowerPoint, playable directly in the browser:
 
-<iframe width="600" height="400" src="https://gmostofabd.github.io/PowerPointToMedia-PPTMagic/assets/melabBD Intro_PowerPoint_4.0S.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://gmostofabd.github.io/PowerPointToMedia-PPTMagic/assets/melabBD%20Intro_PowerPoint_4.0S.mp4" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -90,8 +73,5 @@ Thanks for checking out **PowerPointToMedia-PPTMagic**! We hope this tutorial he
 ---
 
 ### Notes:
-
-- Replace `your-username` with your actual GitHub username.
-- Replace `/your-video.mp4` with the correct path to your MP4 file hosted in the repository under the `assets` folder.
-
-This will allow your video to play directly on the browser without the need for users to download it.
+- Your video is now embedded in the page and playable directly in the browser.
+- Make sure the path to your MP4 video (`https://gmostofabd.github.io/PowerPointToMedia-PPTMagic/assets/melabBD%20Intro_PowerPoint_4.0S.mp4`) is correct and accessible in the `assets` folder of your GitHub Pages.

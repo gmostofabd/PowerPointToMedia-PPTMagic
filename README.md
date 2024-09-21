@@ -1,4 +1,3 @@
-
 # PowerPointToMedia-PPTMagic
 
 Welcome to **PowerPointToMedia-PPTMagic**! This repository provides a comprehensive tutorial on converting PowerPoint slides to various file formats, including MP4, GIF, PDF, and more. Whether you're looking to share your presentations online or save them in different formats, this guide has got you covered.
@@ -25,6 +24,19 @@ PowerPoint presentations are widely used for sharing ideas and information, but 
 - **PDF**: Ideal for printable versions of your slides.
 - **JPEG/PNG**: Useful for individual slide images.
 
+---
+
+## 🎥 Embedded Video Example
+
+Here’s a demonstration video exported from PowerPoint:
+
+<video controls width="600">
+  <source src="https://raw.githubusercontent.com/gmostofabd/PowerPointToMedia-PPTMagic/main/assets/melabBD%20Intro_PowerPoint_4.0S.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## 📖 Getting Started
 
 ### Prerequisites
@@ -36,7 +48,7 @@ PowerPoint presentations are widely used for sharing ideas and information, but 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PowerPointToMedia-PPTMagic.git
+   git clone https://github.com/gmostofabd/PowerPointToMedia-PPTMagic.git
    ```
 2. Open the tutorial files in your preferred code editor or viewer.
 
@@ -44,43 +56,10 @@ PowerPoint presentations are widely used for sharing ideas and information, but 
 
 | Format | Example |
 |--------|---------|
-| MP4    | ![MP4 Example](https://github.com/gmostofabd/PowerPointToMedia-PPTMagic/blob/fccc6814b72404967d8472aa8df788c8573b333e/assets/melabBD%20Intro_PowerPoint_4.0S.mp4) |
+| MP4    | ![MP4 Example](https://raw.githubusercontent.com/gmostofabd/PowerPointToMedia-PPTMagic/main/assets/melabBD%20Intro_PowerPoint_4.0S.mp4) |
 | GIF    | ![GIF Example](link-to-your-example.gif) |
 | PDF    | ![PDF Example](link-to-your-example.pdf) |
 | Image  | ![Image Example](link-to-your-example.png) |
-
----
-
-## 🎥 PowerPoint to GIF: Screen Recording Made Simple
-
-Create high-quality GIFs from your screen recordings with **PowerPoint**! No extra software needed — just follow these steps to capture your screen and export it as an animated GIF.
-
-### Step-by-Step Guide
-
-### 1. Record Your Screen 🖥️
-1. Open **PowerPoint** and create a blank slide.
-2. Navigate to the **Insert** tab and select **Screen Recording**.
-   - A control panel will appear at the top of your screen.
-3. **Select the area** of your screen you want to record by clicking on the **Select Area** button.
-4. Hit **Record** 🎬 to start capturing your screen.
-5. Once done, click **Stop** ⏹️ on the control panel. Your recording will automatically be inserted into your slide.
-
-### 2. Save the Recording as a GIF 🌟
-1. Select the screen recording in your slide.
-2. Go to the **File** tab and click **Export**.
-3. Select **Create an Animated GIF** under the export options.
-   - You can choose the GIF quality:
-     - **Extra Large (1080p)**
-     - **Large (720p)**
-     - **Medium (480p)**
-     - **Small (240p)**
-4. Adjust the **Seconds spent on each slide** ⏲️ to control the GIF duration. Make sure it fits the length of your recording.
-5. Click **Create GIF** and save it to your desired location.
-
-### 🎨 Tips for Best Results:
-- **Screen Resolution**: For a clearer GIF, select **Extra Large** or **Large** under quality.
-- **Editing**: You can trim the recording by right-clicking on the inserted video and choosing **Trim** before exporting.
-- **Looping GIFs**: PowerPoint will automatically loop the GIF when exported!
 
 ---
 
@@ -89,16 +68,16 @@ Create high-quality GIFs from your screen recordings with **PowerPoint**! No ext
 1. **Converting PowerPoint to MP4**
    - Step-by-step guide to exporting your presentation as a video.
 
-   🎥 **Convert any PowerPoint slide into a video file** easily with **no hassle** or the complexity of video editors. You can achieve professional results using PowerPoint's built-in tools, while also preparing video thumbnails and banners for social media platforms **quickly and efficiently**.
-
 2. **Creating GIFs from Slides**
    - Instructions for making animated GIFs from your slides.
-   
+
 3. **Exporting as PDF**
    - How to save your presentation as a PDF document.
-   
+
 4. **Saving Slides as Images**
    - Tips for exporting individual slides as JPEG or PNG files.
+
+---
 
 ## 💬 Contributing
 
@@ -113,11 +92,5 @@ For questions or feedback, please reach out to:
 ---
 
 Thanks for checking out **PowerPointToMedia-PPTMagic**! We hope this tutorial helps you transform your presentations effortlessly.
-```
 
-### Changes Made:
-- Combined sections for better flow and readability.
-- Organized content logically, placing features and supported formats earlier.
-- Included all relevant details while maintaining clarity.
-
-Feel free to tweak any part of it or let me know if you need further changes!
+---

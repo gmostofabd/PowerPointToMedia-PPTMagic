@@ -2,6 +2,9 @@
 
 Welcome to **PowerPointToMedia-PPTMagic**! This repository provides a comprehensive tutorial on converting PowerPoint slides to various file formats, including MP4, GIF, PDF, and more. Whether you're looking to share your presentations online or save them in different formats, this guide has got you covered.
 
+![PPT_to_MP4_Thumbnail_a](https://github.com/gmostofabd/PowerPointToMedia-PPTMagic/blob/186baafa0169e2d0b8efe61e422231800eba4c63/PPT_2_GIF_AppInventor_TutorialBanner1/App%20Inventor%20Tutorial%20Banner_becomeAppInventor1c.gif
+)
+
 ## 📚 Overview
 
 PowerPoint presentations are widely used for sharing ideas and information, but sometimes you need them in different formats for various platforms or audiences. This tutorial will walk you through the steps needed to convert your PowerPoint slides effortlessly.
